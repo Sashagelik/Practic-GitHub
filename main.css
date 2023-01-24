@@ -1,20 +1,20 @@
 body {
   margin: 0;
-  background: rgb(147, 147, 147);
+  background: rgb(255, 255, 255);
 }
 
 #red{
   height: 100px;
-  background: red;
+  background: rgb(218, 255, 117);
   text-align: center;
 }
 #yellow{
   height: 100px;
-  background: yellow;
+  background: rgb(28, 253, 126);
   text-align: center;
 }
 #blue{
   height: 100px;
-  background-color: blue;
+  background-color: rgb(205, 15, 243);
   text-align: center;
 }
